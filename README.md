@@ -15,6 +15,6 @@
     Line 132 : Change the database to your database, user_nanme 
     Line 133 : Change the Password to your password used for postgres
    
-   # 2: final_write.py
+   # 3: final_write.py
     Line 129 : Change the database to your database, user_nanme 
     Line 130 : Change the Password to your password used for postgres
